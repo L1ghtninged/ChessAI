@@ -44,6 +44,10 @@ Z každého režimu se můžete kdykoliv vrátit do hlavního menu.
 - Unity (2022.3.43f1)
 - Bitboardy, Minimax, Alpha-Beta Pruning
 
+## Licence
+
+Projekt je uvolněn pod licencí MIT. Volně k použití a úpravám.
+
 ## Odkazy
 
 - [Repozitář na GitHubu](https://github.com/L1ghtninged/ChessAI/)
